@@ -5,6 +5,8 @@
 This is a sample PHP application for the re:Invent Application
 Lifecycle Management bootcamp.
 
+BOOOOM-Shakalaka
+
 ## Security
 
 Add the following to httpd.conf:
